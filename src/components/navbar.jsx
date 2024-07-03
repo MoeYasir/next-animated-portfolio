@@ -95,24 +95,15 @@ const Navbar = () => {
         </Link>
       </div>
       {/* SOCIALS */}
-      <div className="hidden md:flex gap-4 w-1/3">
+      <div className="hidden md:flex gap-6 w-1/3">
         <Link href="https://github.com/MoeYasir">
           <Image src="/github.png" alt="" width={24} height={24} />
         </Link>
         <Link href="https://www.linkedin.com/in/moeyasir/">
           <Image src="/linkedin.png" alt="" width={24} height={24} />
         </Link>
-        <Link href="https://github.com/MoeYasir">
-          <Image src="/github.png" alt="" width={24} height={24} />
-        </Link>
-        <Link href="https://github.com/MoeYasir">
-          <Image src="/instagram.png" alt="" width={24} height={24} />
-        </Link>
-        <Link href="https://github.com/MoeYasir">
-          <Image src="/hero.png" alt="" width={24} height={24} />
-        </Link>
-        <Link href="https://github.com/MoeYasir">
-          <Image src="/pinterest.png" alt="" width={24} height={24} />
+        <Link href="https://x.com/moeyasirr">
+          <Image src="/x.jpg" alt="" width={24} height={24} />
         </Link>
       </div>
       {/* Responsive Menu */}
